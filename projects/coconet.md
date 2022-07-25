@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mp.png
+image: img/coconet.png
 title: CoCoNet
 date: 2021
 published: true
