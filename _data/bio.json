@@ -58,7 +58,6 @@
 	    "studyType": "MSc.",
 	    "startDate": "2015",
 	    "endDate": "2016",
-	    "gpa":,
 	    "courses": []
 	},                  
 	{
@@ -67,7 +66,6 @@
 	    "studyType": "MSc.",
 	    "startDate": "2013",
 	    "endDate": "2016",
-	    "gpa":,
 	    "courses": []
 	},
 	{
@@ -76,7 +74,6 @@
 	    "studyType": "BSc.",
 	    "startDate": "2009",
 	    "endDate": "2012",
-	    "gpa":,
 	    "courses": []
 	}	
     ],
@@ -93,7 +90,7 @@
             "Statistical analysis of bacterial metagenomes",
             "Development of data wrangling teaching modules in python",
             "Teaching assistant for machine learning methods (ICS235) and discrete math (ICS241)",
-            "Clustering of viral population through identification of shared genetic modules."
+            "Clustering of viral population through identification of shared genetic modules.",
             "Binning viral metagenomes using deep metric learning with PyTorch (published)",
             "Imputation of single-cell RNA-seq data with TensorFlow (published)"
         ]
