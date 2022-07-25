@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mfm.pdf
+image: img/mfm.png
 title: MetaFlow|mics
 date: 2020
 published: true

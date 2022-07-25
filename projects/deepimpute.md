@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mp.png
+image: img/di.png
 title: DeepImpute
 date: 2019
 published: true
