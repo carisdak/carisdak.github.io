@@ -1,118 +1,143 @@
 {
-  "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "basics": {
+	"name": "Cédric Arisdakessian",
+	"label": "Graduate Student",
+    "picture": "https://puumanamana.github.io/img/profile.jpg",
+    "email": "carisdak@hawaii.edu",
+    "phone": ,
+    "website": "https://puumanamana.github.io",
+	"summary": "Data scientist with 6+ years experience developing deep learning methods to solve biological problems and streamlining high-throughput sequencing data analysis in high-performance computing environments.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Puumanamana", "url": "http://github.com/puumanamana" },
+      { "network": "linkedin", "username": "carisdak", "url": "https://www.linkedin.com/in/carisdak" },
     ]
-  },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+    "interests": [
+	    { "name": "Bioinformatics" },
+	    { "name": "Data science" },
+	    { "name": "Metagenomics" },
+	    { "name": "Artificial Intelligence" }
+    ],
+    "skills": [
+	{
+	    "name": "Languages and Frameworks",
+	    "keywords": ["python","R","nextflow","rust","bash","C++","LaTeX","SQL"]
+	},
+	{
+	    "name": "Operating systems",
+	    "keywords": ["MacOS","Linux","Windows"]
+	},
+	{
+	    "name": "Software development",
+	    "keywords": ["git","github","unit testing","anaconda","jupyter"]
+	},
+	{
+	    "name": "Data Science packages",
+	    "keywords": ["pandas","numpy","scipy","scikit-learn","pytorch","tensorflow","keras","seaborn","bokeh","biopython"]
+	},
+	{
+	    "name": "Frameworks",
+	    "keywords": ["Nextflow","SLURM","Docker", "Singularity", "Singularity"]
+	}
+        
+    ],
+    "education": [
+	{
+	    "institution": "University of Hawai'i at Manoa, Honolulu, HI",
+	    "area": "Computer Science",
+	    "studyType": "Ph.D.",
+	    "startDate": "2018-01",
+	    "endDate": "Present",
+	    "gpa": "3.97",
+	    "courses": []
+	},
+	{
+	    "institution": "Université Claude Bernard Lyon 1",
+	    "area": "Bioinformatics",
+	    "studyType": "MSc.",
+	    "startDate": "2015",
+	    "endDate": "2016",
+	    "gpa":,
+	    "courses": []
+	},                  
+	{
+	    "institution": "École Centrale de Lyon",
+	    "area": "Engineering",
+	    "studyType": "MSc.",
+	    "startDate": "2013",
+	    "endDate": "2016",
+	    "gpa":,
+	    "courses": []
+	},
+	{
+	    "institution": "Lycée Champollion",
+	    "area": "Engineering",
+	    "studyType": "BSc.",
+	    "startDate": "2009",
+	    "endDate": "2012",
+	    "gpa":,
+	    "courses": []
+	}	
+    ],
+    "work": [
+	{
+	    "company": "University of Hawaiʻi at Mānoa",
+	    "position": "Graduate Research Assistant",
+        "website": "https://www.labhuiofrank.com/",
+	    "startDate": "2017-08",
+	    "endDate": "Present",
+	    "summary": "Bioinformatic analyses of metagenomics sequencing data",
+	    "highlights": [
+            "Development of computational pipelines for the analysis of marker-gene data (published)",
+            "Statistical analysis of bacterial metagenomes",
+            "Development of data wrangling teaching modules in python",
+            "Teaching assistant for machine learning methods (ICS235) and discrete math (ICS241)",
+            "Clustering of viral population through identification of shared genetic modules."
+            "Binning viral metagenomes using deep metric learning with PyTorch (published)",
+            "Imputation of single-cell RNA-seq data with TensorFlow (published)"
+        ]
+	},
+	{
+	    "company": "Institute for Advanced Biosciences",
+	    "position": "Research Engineer",
+	    "website": "https://iab.univ-grenoble-alpes.fr/",
+	    "startDate": "2017-04",
+	    "endDate": "2017-08",
+	    "summary": "Analysis of epigenetic data in lymphoblastic and mantle cell lymphoma cell lines",
+	    "highlights": [
+		    "Data curation",
+		    "Peak calling",
+		    "Differential enrichment analysis"
+	    ]
+	},
+	{
+	    "company": "Sanofi Pasteur",
+	    "position": "Bioinformatics intern",
+	    "website": "http://www.sanofipasteur.com/",
+	    "startDate": "2016-04",
+	    "endDate": "2016-09",
+	    "summary": "Meta-analysis of gene expression data for biomarker discovery in the influenza vaccine response",
+	    "highlights": []
+	},
+	{
+	    "company": "Scripps Institute of Oceanography, ENSTA Bretagne",
+	    "position": "Research intern",
+	    "website": "https://sioweb.ucsd.edu/labs/athode",
+	    "startDate": "2014-10",
+	    "endDate": "2015-05",
+	    "summary": "Geolocalization of bowhead whales using a non-linear analysis of their calls",
+	    "highlights": []
+	},
+	{
+	    "company": "French Alternative Energies and Atomic Energy Commission",
+	    "position": "Research intern",
+	    "website": "https://www.cea.fr/english",
+	    "startDate": "2014-05",
+	    "endDate": "2014-09",
+	    "summary": "Reconstruction of radio telescope array images based on wavelet decomposition techniques",
+	    "highlights": []
+	},	
+    ],
+    "references": [{"name": "Available upon request"}]
 }
