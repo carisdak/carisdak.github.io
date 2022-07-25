@@ -7,7 +7,9 @@ date: 2021
 published: true
 labels:
   - pytorch
+  - clustering
   - metagenomics
+  - whole genome sequencing
 summary: "Metagenomic binning of viral contigs"
 ---
 
