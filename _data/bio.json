@@ -2,10 +2,10 @@
     "basics": {
 	"name": "Cédric Arisdakessian",
 	"label": "Graduate Student",
-    "picture": "https://puumanamana.github.io/img/profile.jpg",
+    "picture": "https://carisdak.github.io/img/profile.jpg",
     "email": "carisdak@hawaii.edu",
     "phone": ,
-    "website": "https://puumanamana.github.io",
+    "website": "https://carisdak.github.io",
 	"summary": "Data scientist with 6+ years experience developing deep learning methods to solve biological problems and streamlining high-throughput sequencing data analysis in high-performance computing environments.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -81,7 +81,6 @@
 	{
 	    "company": "University of Hawaiʻi at Mānoa",
 	    "position": "Graduate Research Assistant",
-        "website": "https://www.labhuiofrank.com/",
 	    "startDate": "2017-08",
 	    "endDate": "Present",
 	    "summary": "Bioinformatic analyses of metagenomics sequencing data",
