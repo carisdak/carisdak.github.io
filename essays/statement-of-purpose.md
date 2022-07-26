@@ -60,11 +60,10 @@ at Mānoa with Dr. Mahdi Belcaid helps me strengthen my knowledge
 in this field, and my various collaboration with biological
 oceanography labs in the university provides me valuable
 experience analyzing and curating the data. Already, my current
-research tries to makes use of deep learning models to cluster species
-in metagenomic samples.
+research tries to makes use of deep learning models to cluster genomic
+sequences in metagenomic samples.
 
 In the future, I want my research to support other scientific fields
 through the development of data analysis tools and machine learning
-approaches. Since I also enjoy automating and streamlining workflows,
-I can also envision myself working in industry.
+approaches.
 
